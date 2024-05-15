@@ -1,0 +1,9 @@
+WaveSystem을 초마다 생성이 아닌 한번에 빡 생성으로 바꿈.
+
+OnCheckingAnimation State쪽으로 빼기
+
+화살 공격 방식.
+
+자원
+
+이동지점 도착 완료 시 다시 어택 상태로 바꾸기.
